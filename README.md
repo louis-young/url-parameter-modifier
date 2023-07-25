@@ -1,6 +1,6 @@
 # URL Parameter Modifier
 
-A client-side-rendered React Single Page Application that allows you to update URL parameters.
+A client-side-rendered React Single Page Application that allows you to update URL parameters, including parameters in the search and hash URL components, with valueless key support.
 
 ## Scripts
 
